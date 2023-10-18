@@ -1,4 +1,4 @@
-Package: formula.tools
+Package: formula.tools_debug
 Type: Package
 Title: Programmatic Utilities for Manipulating Formulas, Expressions, Calls, Assignments and 
     Other R Objects
